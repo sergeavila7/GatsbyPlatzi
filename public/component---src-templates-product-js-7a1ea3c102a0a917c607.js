@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{giMl:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return u}));var r=e("q1tI"),a=e.n(r),o=e("Kvkj");function u(n){var t=n.pageContext;return a.a.createElement(o.d,t)}}}]);
+//# sourceMappingURL=component---src-templates-product-js-7a1ea3c102a0a917c607.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/cart.js"],"names":["cart"],"mappings":"2FAAA,oFAGe,SAASA,IACtB,OAAO,kBAAC,IAAD","file":"component---src-pages-cart-js-a9051d814d0ea3b58709.js","sourcesContent":["import React from \"react\"\r\nimport { Cart } from \"../components\"\r\n\r\nexport default function cart() {\r\n  return <Cart />\r\n}\r\n"],"sourceRoot":""}
